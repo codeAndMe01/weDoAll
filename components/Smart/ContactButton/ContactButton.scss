@@ -1,0 +1,12 @@
+.contact-us-button {
+  font-family: 'lato';
+  color: white !important;
+  font-size: 13px;
+  height: 48px;
+}
+
+@media only screen and (max-width: 550px) {
+  .contact-us-button {
+    height: 40px;
+  }
+}
