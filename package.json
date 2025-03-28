@@ -24,7 +24,7 @@
     "@sendgrid/mail": "^7.7.0",
     "axios": "^1.6.0",
     "gray-matter": "^4.0.3",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.0",
     "markdown-to-jsx": "^7.2.1",
     "next": "13.5.4",
     "next-share": "^0.20.0",
@@ -39,7 +39,7 @@
     "styled-components": "^6.0.8"
   },
   "devDependencies": {
-    "@types/markdown-it": "^12.2.3",
+    "@types/markdown-it": "^14.1.2",
     "@types/node": "^20.8.3",
     "@types/prismjs": "^1.26.0",
     "@types/react": "^18.2.12",
